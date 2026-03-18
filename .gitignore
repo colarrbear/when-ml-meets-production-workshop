@@ -215,3 +215,6 @@ __marimo__/
 
 # Model
 *.joblib
+
+# Reporting
+*.html
